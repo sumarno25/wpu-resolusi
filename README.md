@@ -1,2 +1,2 @@
-# wpu-resolusi
+# latian 
 Repositori menyimpan rencana wpu kedepannya
